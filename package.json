@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/jugezu/Front-end-web/issues"
   },
-  "homepage": "https://jugezu.github.io/coursework",
+  "homepage": "https://jugezu.github.io/Front-end-web",
   "description": "",
   "devDependencies": {
     "gh-pages": "^6.3.0"
