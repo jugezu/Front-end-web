@@ -1,0 +1,26 @@
+{
+  "name": "frontend-webbi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build process needed\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugezu/Front-end-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugezu/Front-end-web/issues"
+  },
+  "homepage": "https://github.com/jugezu/coursework",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
